@@ -34,7 +34,7 @@ To Use The Bomber Type The Following Commands In Termux:
 ```
 apt update && apt upgrade -y
 apt install git python -y
-git clone https://github.com/Sl-Sanda-Ru/Sl-Bomber.git
+https://github.com/inokag/Sl-Bomber.git
 cd Sl-Bomber
 pip3 install -r requirements.txt
 python3 slbomber.py
