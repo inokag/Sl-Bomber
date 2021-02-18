@@ -1,4 +1,5 @@
-<h1 align="center">Sl Bomber</h1>
+<h1 align="center">SH BOMBER</h1>
+<h3 align="center">CREATE  BY  SHEHARA  HESHAN</h3>
 <p align="center">SMS Bomber & Caller For Sri Lankan Numbers.</p>
 <h2 align="center">This Repository Is No Longer Maintained Because Of Sri Lankan Gon People</h2><br>
 
@@ -9,7 +10,7 @@
 - Make Sure You Are Using Python3.
 - Do Not Use This To Harm Others.
 - This Script Is Only For Educational Purposes or to Prank.
-- **Developer Is Not Responsible For The Misuse Of Sl-Bomber**
+- **Developer Is Not Responsible For The Misuse Of SH-Bomber**
 <br>
 
 ## OS Support
